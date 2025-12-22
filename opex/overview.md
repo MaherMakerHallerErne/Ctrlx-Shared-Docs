@@ -1,8 +1,6 @@
 ---
-id: opex-overview
 title: Opex Solution Overview
 sidebar_label: Overview
-slug: /opex/opex-overview
 ---
 
 # Opex Solution for ctrlX CORE
@@ -31,3 +29,4 @@ For more information about availability and early access, please contact:
 ---
 
 *This page will be updated as development progresses.*
+
