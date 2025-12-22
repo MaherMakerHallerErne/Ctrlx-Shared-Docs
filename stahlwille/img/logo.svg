@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="101.8031 128.6696 245.2817 149.4525" width="245.282px" height="149.452px">
+  <defs>
+    <linearGradient id="gradient-1" x1="150" y1="10" x2="300" y2="70" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.645513, 0, 0, 0.516143, 23.257698, 82.459053)">
+      <stop offset="0" stop-color="#1d1d1d"/>
+      <stop offset="1" stop-color="#333333"/>
+    </linearGradient>
+    <linearGradient id="handleGrad" x1="150" y1="10" x2="300" y2="70" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.786085, 0, 0, 1, 28.321389, 159.760272)">
+      <stop offset="0" stop-color="#1d1d1d"/>
+      <stop offset="1" stop-color="#333333"/>
+    </linearGradient>
+    <linearGradient id="btnGrad" x1="0" y1="0" x2="0" y2="8" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1, 0, 0, 1, -0.100418, 546.396394)">
+      <stop offset="0" stop-color="#4caf50"/>
+      <stop offset="1" stop-color="#388e3c"/>
+    </linearGradient>
+  </defs>
+  <rect x="120.084" y="87.62" width="96.827" height="30.969" rx="10" fill="url(#gradient-1)" stroke="#1d1d1d" stroke-width="1" style="stroke-width: 1; transform-origin: 79.119px 103.605px;" transform="matrix(0.8909089, 0.454182, -0.454182, 0.8909089, 137.94560209, 98.58501538)"/>
+  <rect x="146.234" y="169.761" width="117.913" height="60" rx="10" fill="url(#handleGrad)" stroke="#1d1d1d" stroke-width="1" style="stroke-width: 1; transform-origin: 198.178px 199.261px;" transform="matrix(0.8909089, 0.454182, -0.454182, 0.8909089, 18.8866319, 2.92930115)"/>
+  <rect x="94.814" y="51.156" width="63.455" height="13.313" rx="6" fill="#2c7e3e" stroke="#226630" stroke-width="1" style="stroke-width: 1; transform-origin: 123.855px 58.076px;" transform="matrix(0.8909089, 0.454182, -0.454182, 0.8909089, 181.59368423, 187.83142905)"/>
+  <rect x="163.595" y="188.049" width="109.488" height="48.937" rx="6" fill="#2c7e3e" stroke="#226630" stroke-width="1" style="stroke-width: 1; transform-origin: 213.704px 213.485px;" transform="matrix(0.8909089, 0.454182, -0.454182, 0.8909089, 3.36017776, -11.29529826)"/>
+  <text style="white-space: pre; stroke-width: 1; font-size: 8px; transform-origin: 257.517px 197.76px;" x="236.028" y="199.761" font-weight="bold" font-size="8" font-family="Arial" fill="#ffffff" transform="matrix(1.62067795, 0.82621491, -0.82266092, 1.62247992, -40.45357615, 4.42979938)">STAHLWILLE</text>
+  <path d="M 142.554 177.439 L 162.749 177.439 C 165.936 177.439 168.52 181.916 168.52 187.439 L 168.52 227.44 C 168.52 232.962 165.936 237.44 162.749 237.44 L 142.554 237.44 L 142.554 177.439 Z" fill="#1d1d1d" stroke="#1d1d1d" stroke-width="1" style="stroke-width: 1; transform-origin: 225.832px 206.94px;" transform="matrix(0.8909089, 0.454182, -0.454182, 0.8909089, -0.00001577, 6.7e-7)"/>
+  <path d="M 122.555 192.44 L 142.555 192.44 L 142.555 187.44 L 137.555 187.44 L 137.555 222.44 L 142.555 222.44 L 142.555 217.44 L 122.555 217.44 L 122.555 192.44 Z" fill="#1d1d1d" stroke="#1d1d1d" stroke-width="1" style="stroke-width: 1; transform-origin: 225.833px 206.94px;" transform="matrix(0.8909089, 0.454182, -0.454182, 0.8909089, -0.00001883, 3.1e-7)"/>
+  <rect x="101.028" y="179.761" width="30" height="40" rx="4" fill="#cecece" stroke="#a0a0a0" stroke-width="2" style="stroke-width: 2; transform-origin: 234.305px 199.261px;" transform="matrix(0.8909089, 0.454182, -0.454182, 0.8909089, -4.45354248, 7.31332566)"/>
+  <circle cx="116.028" cy="199.761" r="8" fill="#1d1d1d" stroke="#1d1d1d" stroke-width="1" style="stroke-width: 1; transform-origin: 234.305px 199.26px;" transform="matrix(0.8909089, 0.454182, -0.454182, 0.8909089, -4.4536337, 7.31357882)"/>
+  <circle cx="116.028" cy="199.761" r="3" fill="#cecece" style="stroke-width: 1; transform-origin: 234.305px 199.26px;" transform="matrix(0.8909089, 0.454182, -0.454182, 0.8909089, -4.4536337, 7.31357882)"/>
+  <rect x="111.028" y="194.761" width="10" height="10" rx="1" fill="#a0a0a0" stroke="#808080" stroke-width="1" style="stroke-width: 1; transform-origin: 234.305px 199.261px;" transform="matrix(0.8909089, 0.454182, -0.454182, 0.8909089, -4.45354248, 7.31332566)"/>
+  <circle cx="169.975" cy="184.599" r="4" fill="url(#btnGrad)" style="stroke-width: 1; transform-origin: 211.164px 197.975px;" transform="matrix(1.48923898, 0.754605, -0.69450313, 1.37062299, 14.66781222, 8.96409792)"/>
+  <circle cx="169.975" cy="192.599" r="4" fill="url(#btnGrad)" style="stroke-width: 1; transform-origin: 211.164px 196.629px;" transform="matrix(1.48923898, 0.754605, -0.69450313, 1.37062299, 14.66751101, 10.31112252)"/>
+  <circle cx="169.975" cy="200.599" r="4" fill="url(#btnGrad)" style="stroke-width: 1; transform-origin: 211.164px 195.519px;" transform="matrix(1.48923898, 0.754605, -0.69450313, 1.37062299, 14.66781054, 11.41981134)"/>
+  <circle cx="169.975" cy="208.599" r="4" fill="url(#btnGrad)" style="stroke-width: 1; transform-origin: 211.164px 194.331px;" transform="matrix(1.48923898, 0.754605, -0.69450313, 1.37062299, 14.6678171, 12.60884341)"/>
+</svg>
