@@ -1,8 +1,6 @@
 ---
-id: stahlwille-766-user-guide
 title: Stahlwille 766 App - User Guide
 sidebar_label: User Guide
-slug: /stahlwille-766/user-guide
 ---
 
 > This is the entry point. Sub‑sections cover installation, configuration (`appdata.json`), applying changes, UI/widget usage, Data Layer control, licensing, troubleshooting, and quick reference.

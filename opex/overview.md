@@ -1,8 +1,6 @@
 ---
-id: opex-overview
 title: Opex Solution Overview
 sidebar_label: Overview
-slug: /opex/opex-overview
 ---
 
 # Opex Solution for ctrlX CORE
