@@ -17,5 +17,3 @@ Integrate GWK Operator tools with ctrlX, providing a dashboard widget and exposi
 - [Licensing](./licensing.md) — Activation and license management
 - [Troubleshooting](./troubleshooting.md) — Common issues and solutions
 
-*This page will be updated as development progresses.*
-
