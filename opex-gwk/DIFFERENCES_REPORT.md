@@ -23,7 +23,7 @@ The following items require manual review or asset creation:
 - [ ] **Licensing Images**: `licensing.md` images are placeholders. Verify if the licensing screen (License Generator) looks identical.
 - [ ] **Logbook Images**: `troubleshooting.md` refers to `logbook-error.png`.
 - [ ] **Cheatsheet**: `quick-reference.md` link to `cheatsheet.png` needs validation.
-- [ ] **Overview**: `overview.md` was overwritten/ignored in favor of migrated `user-guide.md` structure. Verify if `overview.md` in source had unique content (it was "Coming Soon").
+- [x] **Overview**: `overview.md` content merged into `user-guide.md`. Overview removed from sidebar.
 
 ## Compliance Checklist
 
