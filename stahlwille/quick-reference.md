@@ -11,6 +11,3 @@ sidebar_label: Quick Reference
 - Logs: Diagnostics → Logbook (filter by app source)
 - Error codes: [Error Codes Reference](./error-codes.md) (negative values block Enable/Disable)
 - Common fields: `pset`, torque limits `t_min/t_tgt/t_max`, angle (if required)
-:::note Image Placeholder
-`/img/user-guide/cheatsheet.png` – Compact cheat sheet panel.
-:::
