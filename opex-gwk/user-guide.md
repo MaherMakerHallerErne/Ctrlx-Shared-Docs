@@ -12,7 +12,8 @@ Integrate a GWK Operator tool with ctrlX, provide a dashboard widget, and expose
 Tested on ctrlX OS V3.6.2 (arm64 snap for Core X3, amd64 snap for Core X7).
 
 :::note Image Placeholder
-<!-- TODO: Update screenshot for OPEX-GWK -->`/img/user-guide/overview-architecture.png` – High level data flow (Tool ⇄ App ⇄ Data Layer ⇄ PLC/UI).
+<!-- TODO: Update screenshot for OPEX-GWK -->
+`/img/user-guide/overview-architecture.png` – High level data flow (Tool ⇄ App ⇄ Data Layer ⇄ PLC/UI).
 :::
 
 ## Sections

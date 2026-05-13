@@ -18,6 +18,9 @@ Tips:
 - Change one PSet parameter at a time and restart.
 - Check [Error Codes Reference](./error-codes.md) for operation error meanings and resolutions.
 :::note Image Placeholder
-<!-- TODO: Update screenshot for OPEX-GWK -->`/img/user-guide/logbook-error.png` – Example error entry for missing PSet.
-<!-- TODO: Update screenshot for OPEX-GWK -->`/img/user-guide/config-diff.png` – Before/after config diff.
+<!-- TODO: Update screenshot for OPEX-GWK -->
+`/img/user-guide/logbook-error.png` – Example error entry for missing PSet.
+
+<!-- TODO: Update screenshot for OPEX-GWK -->
+`/img/user-guide/config-diff.png` – Before/after config diff.
 :::
