@@ -13,10 +13,10 @@ Tested on ctrlX OS V3.6.2 (arm64 snap for Core X3, amd64 snap for Core X7).
 
 ```mermaid
 graph LR
-    A["🔧 GWK Operator\nTool"] -- "OPEX Protocol" --> B["📦 GWK Operator App\n(ctrlX Snap)"]
-    B -- "Data Layer" --> C["⚙️ PLC / IPC\n(ctrlX CORE)"]
-    B -- "WebSocket" --> D["🖥️ Dashboard\nUI Widget"]
-    B -- "HTTP POST" --> E["🌐 External\nServer"]
+    A["🔧 GWK Operator<br/>Tool"] -- "OPEX Protocol" --> B["📦 GWK Operator App<br/>(ctrlX Snap)"]
+    B -- "Data Layer" --> C["⚙️ PLC / IPC<br/>(ctrlX CORE)"]
+    B -- "WebSocket" --> D["🖥️ Dashboard<br/>UI Widget"]
+    B -- "HTTP POST" --> E["🌐 External<br/>Server"]
     
     subgraph ctrlX CORE
         B

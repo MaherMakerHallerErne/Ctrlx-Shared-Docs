@@ -1,32 +1,21 @@
 ---
-title: Opex Solution Overview
+title: GWK Operator App — Overview
 sidebar_label: Overview
 ---
 
-# Opex Solution for ctrlX CORE
+# GWK Operator App for ctrlX CORE
 
-## Coming Soon
+Integrate GWK Operator tools with ctrlX, providing a dashboard widget and exposing control/status through the Data Layer.
 
-The Opex solution is currently in development and will provide industrial optimization and efficiency monitoring capabilities for the ctrlX CORE ecosystem.
+## Documentation
 
-## Planned Features
-
-- Performance optimization monitoring
-- Efficiency analytics and reporting
-- Integration with ctrlX DataLayer
-- Real-time dashboard capabilities
-- Advanced reporting and insights
-
-## Availability
-
-This product is under active development. Documentation and features will be available in future releases.
-
-For more information about availability and early access, please contact:
-
-- **Email**: registration@haller-erne.com
-- **Company**: Haller + Erne GmbH
-
----
+- [User Guide](./user-guide.md) — Architecture and getting started
+- [Installation](./installation.md) — Installing the snap on ctrlX CORE
+- [Configuration](./configuration.md) — Configuring `appdata.json`
+- [UI & Widget](./ui-widget.md) — Dashboard widget usage
+- [Data Layer](./data-layer.md) — PLC integration via `he/commgo/app/tool1`
+- [Licensing](./licensing.md) — Activation and license management
+- [Troubleshooting](./troubleshooting.md) — Common issues and solutions
 
 *This page will be updated as development progresses.*
 
