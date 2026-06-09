@@ -59,9 +59,9 @@ The application includes a Graphical User Interface to modify the configuration 
 ### Overview Page
 The main configuration page displays the current network connection settings (IP Address and Port) and a list of all configured parameter sets (PSets).
 
-![Configuration Overview](./img/Config page1.png)
+![Configuration Overview](./img/Config%20page1.png)
 
 ### Parameter Set Editor
 Expanding a parameter set displays its specific configuration settings, such as PSet number, name, description, unit, and torque/angle parameters.
 
-![Parameter Set Detail](./img/Config page2.png)
+![Parameter Set Detail](./img/Config%20page2.png)
