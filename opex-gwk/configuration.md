@@ -46,3 +46,17 @@ Supported PSet fields: `ParameterSetName`, `ParameterSetNumber`, `WorkpieceId`, 
 ```
 
 ![appdata.json editor view](./img/CommGo%20config%20app%20data.png)
+
+## Configuration Editor UI
+
+The application includes a Graphical User Interface to modify the configuration of the network settings and parameter sets directly without editing the JSON file manually.
+
+### Overview Page
+The main configuration page displays the current network connection settings (IP Address, Port, and Serial Number) and a list of all configured parameter sets (PSets).
+
+![Configuration Overview](./img/Config page1.png)
+
+### Parameter Set Editor
+Expanding a parameter set displays its specific configuration settings, such as PSet number, name, workpiece ID, direction, unit, and torque/angle parameters.
+
+![Parameter Set Detail](./img/Config page2.png)
